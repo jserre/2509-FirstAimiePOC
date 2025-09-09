@@ -1,3 +1,14 @@
+---
+title: Compagnon IA Intime POC
+emoji: 🤖💙
+colorFrom: blue
+colorTo: purple
+sdk: gradio
+sdk_version: 4.44.0
+app_file: app.py
+pinned: false
+---
+
 # 🤖💙 Compagnon Vocal Intime - POC
 
 Un prototype de compagnon conversationnel qui développe progressivement une relation personnelle avec l'utilisateur grâce à un système d'intimité adaptatif.
