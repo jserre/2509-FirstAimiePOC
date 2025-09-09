@@ -1,4 +1,4 @@
-# 🤖💙 Compagnon Vocal Intime - POC
+# 🤖💙 Compagnon - POC
 
 Un prototype de compagnon conversationnel qui développe progressivement une relation personnelle avec l'utilisateur grâce à un système d'intimité adaptatif.
 
